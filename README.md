@@ -8,7 +8,7 @@ Building AI-operated systems out of Nashville, TN
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/patrickhughes013)
 [![Blog](https://img.shields.io/badge/bmdpat.com-111111?style=flat-square&logo=About.me&logoColor=white)](https://bmdpat.com)
-[![PyPI](https://img.shields.io/pypi/v/agentguard?style=flat-square&color=3776AB&label=agentguard%20on%20PyPI)](https://pypi.org/project/agentguard)
+[![PyPI](https://img.shields.io/pypi/v/agentguard47?style=flat-square&color=3776AB&label=agentguard47%20on%20PyPI)](https://pypi.org/project/agentguard47)
 
 </div>
 
@@ -22,14 +22,14 @@ After hours: running **BMD HODL** -- a one-person AI-operated holding company. 1
 
 ## Open Source
 
-### [AgentGuard](https://github.com/bmdhodl/agent47) &nbsp; `pip install agentguard`
+### [AgentGuard](https://github.com/bmdhodl/agent47) &nbsp; `pip install agentguard47`
 
 Your agent just burned $200. AgentGuard stopped it at $5.
 
 Runtime cost guardrails for AI agents. Budget caps, loop detection, kill switches. Drop it in front of any LLM call. Zero dependencies. MIT.
 
 ```python
-from agentguard import AgentGuard
+from agentguard47 import AgentGuard
 
 guard = AgentGuard(budget=5.00)
 
