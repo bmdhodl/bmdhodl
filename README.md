@@ -79,9 +79,6 @@ Measured local-LLM data and agent-fleet notes at [bmdpat.com](https://bmdpat.com
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bmdhodl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bmdhodl&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=bmdhodl&color=3776AB&style=for-the-badge)
 
 </div>
