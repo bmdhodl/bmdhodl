@@ -29,6 +29,8 @@ Other projects:
 
 ```mermaid
 flowchart TD
+    accTitle: Checks during and after agent work
+    accDescr: AgentGuard checks operations. Showwork checks declared outcomes.
     A[Agent runs a task] --> B[AgentGuard checks instrumented operations]
     B --> C[Agent declares completed work]
     C --> D[showwork checks declared outcomes]
